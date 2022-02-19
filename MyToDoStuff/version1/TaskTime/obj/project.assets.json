@@ -1199,14 +1199,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/TaskTime.csproj",
+      "projectUniqueName": "/Users/zacmcmillan/Desktop/MyProjects (gitHub)/MyPersonalProjects/MyToDoStuff/version1/TaskTime/TaskTime.csproj",
       "projectName": "TaskTime",
-      "projectPath": "/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/TaskTime.csproj",
+      "projectPath": "/Users/zacmcmillan/Desktop/MyProjects (gitHub)/MyPersonalProjects/MyToDoStuff/version1/TaskTime/TaskTime.csproj",
       "packagesPath": "/Users/zacmcmillan/.nuget/packages/",
-      "outputPath": "/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/",
+      "outputPath": "/Users/zacmcmillan/Desktop/MyProjects (gitHub)/MyPersonalProjects/MyToDoStuff/version1/TaskTime/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zacmcmillan/.nuget/NuGet/NuGet.Config"
+        "/Users/zacmcmillan/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

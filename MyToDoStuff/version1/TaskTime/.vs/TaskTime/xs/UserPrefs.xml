@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/ViewTasks.cshtml">
     <Files>
       <File FileName="Views/Home/ViewTasks.cshtml" Line="67" Column="92" />
-      <File FileName="Models/Category.cs" Line="1" Column="1" />
-      <File FileName="Models/TaskContext.cs" Line="1" Column="1" />
-      <File FileName="Models/ApplicationResponse.cs" Line="19" Column="41" />
-      <File FileName="Views/Home/Add_Task.cshtml" Line="55" Column="78" />
+      <File FileName="Models/Category.cs" />
+      <File FileName="Models/TaskContext.cs" />
+      <File FileName="Models/ApplicationResponse.cs" />
+      <File FileName="Views/Home/Add_Task.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

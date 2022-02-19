@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nD5gEKsNO9lI3iSZUlOhhllCjv7aU8CqqlplxnTOPiYG9ZyCR1tM9g5JV4Q2W92++BJ5ZMegn7ZIO+JpOg+Zjw==",
+  "dgSpecHash": "Ht3uZdmCmv+PZqnir7tYnTLy56R9vU3PcZwNuDVzoENyc+SqN0rv/6PKU970XNZ3V4HPb+QwCFm5SyVWou3M8g==",
   "success": true,
-  "projectFilePath": "/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/TaskTime.csproj",
+  "projectFilePath": "/Users/zacmcmillan/Desktop/MyProjects (gitHub)/MyPersonalProjects/MyToDoStuff/version1/TaskTime/TaskTime.csproj",
   "expectedPackageFiles": [
     "/Users/zacmcmillan/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/zacmcmillan/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
