@@ -1,0 +1,174 @@
+﻿@{
+    ViewData["Title"] = "View Tasks";
+}
+
+@model List<ApplicationResponse>
+
+<h1>Here is your list of tasks. Please edit, and mark completed when you have completed the task.</h1>
+<br />
+<br />
+<br />
+
+
+<div class="row-fluid">
+    <div class="col-12 center">
+        <h1>Stephen Covey's Time Management Matrix</h1>
+        <br />
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-2 border-between"></div>
+    <div class="col-5 center">
+        <h1>Urgent</h1>
+    </div>
+    <div class="col-5 center">
+        <h1>Not Urgent</h1>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-2">
+        <h2>IMPORTANT</h2>
+    </div>
+    <div class="col-5 center">
+        <h4 class="quadrant">Quadrant 1</h4>
+        <br />
+
+        @foreach (var x in Model)
+        {
+            if (@x.Quadrant == "Quadrant I" && @x.Completed == false)
+            {
+                <p style="font-weight:bold">@x.Task</p>
+                <p>Description: @x.Description</p>
+                <p>Due date: @x.DueDate</p>
+                <p>Estimated Duration: @x.EstimateTime minutes</p>
+                <p>Time already spent: @x.TimeSpent minutes</p>
+                <p>Time left: @x.TimeLeft minutes</p>
+                <p>Updates: @x.Update</p>
+                <p>Last Updated: @x.LastUpdated</p>
+                <p><a asp-controller="Home" asp-action="Edit" asp-route-taskid="@x.AppResponseId">Edit</a></p>
+                <p><a asp-controller="Home" asp-action="Delete" asp-route-taskid="@x.AppResponseId">Delete</a></p>
+                <br /><br />
+            }
+        }
+
+    </div>
+    <div class="col-5 center">
+        <h4 class="quadrant">Quadrant 2</h4>
+        <br />
+
+        @foreach (var x in Model)
+        {
+            if (@x.Quadrant == "Quadrant II" && @x.Completed == false && @x.CategoryID != 2 )
+            {
+                <p style="font-weight:bold">@x.Task</p>
+                <p>Description: @x.Description</p>
+                <p>Due date: @x.DueDate</p>
+                <p>Estimated Duration: @x.EstimateTime minutes</p>
+                <p>Time already spent: @x.TimeSpent minutes</p>
+                <p>Time left: @x.TimeLeft minutes</p>
+                <p>Updates: @x.Update</p>
+                <p>Last Updated: @x.LastUpdated</p>
+                <p><a asp-controller="Home" asp-action="Edit" asp-route-taskid="@x.AppResponseId">Edit</a></p>
+                <p><a asp-controller="Home" asp-action="Delete" asp-route-taskid="@x.AppResponseId">Delete</a></p>
+                <br /><br />
+            }
+        }
+
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-2">
+        <h2>NOT IMPORTANT</h2>
+    </div>
+    <div class="col-5 center">
+        <h4 class="quadrant">Quadrant 3</h4>
+        <br />
+
+        @foreach (var x in Model)
+        {
+            if (@x.Quadrant == "Quadrant III" && @x.Completed == false)
+            {
+                <p style="font-weight:bold">@x.Task</p>
+                <p>Description: @x.Description</p>
+                <p>Due date: @x.DueDate</p>
+                <p>Estimated Duration: @x.EstimateTime minutes</p>
+                <p>Time already spent: @x.TimeSpent minutes</p>
+                <p>Time left: @x.TimeLeft minutes</p>
+                <p>Updates: @x.Update</p>
+                <p>Last Updated: @x.LastUpdated</p>
+                <p><a asp-controller="Home" asp-action="Edit" asp-route-taskid="@x.AppResponseId">Edit</a></p>
+                <p><a asp-controller="Home" asp-action="Delete" asp-route-taskid="@x.AppResponseId">Delete</a></p>
+                <br /><br />
+            }
+        }
+
+    </div>
+    <div class="col-5 center">
+        <h4 class="quadrant">Quadrant 4</h4>
+        <br />
+
+        @foreach (var x in Model)
+        {
+            if (@x.Quadrant == "Quadrant IV" && @x.Completed == false)
+            {
+                <p style="font-weight:bold">@x.Task</p>
+                <p>Description: @x.Description</p>
+                <p>Due date: @x.DueDate</p>
+                <p>Estimated Duration: @x.EstimateTime minutes</p>
+                <p>Time already spent: @x.TimeSpent minutes</p>
+                <p>Time left: @x.TimeLeft minutes</p>
+                <p>Updates: @x.Update</p>
+                <p>Last Updated: @x.LastUpdated</p>
+                <p><a asp-controller="Home" asp-action="Edit" asp-route-taskid="@x.AppResponseId">Edit</a></p>
+                <p><a asp-controller="Home" asp-action="Delete" asp-route-taskid="@x.AppResponseId">Delete</a></p>
+                <br /><br />
+            }
+        }
+
+    </div>
+</div>
+
+
+<h1>This is just for us to visualize the data for now</h1>
+<table class="table table-bordered table-striped">
+    <thead class="font-weight-bold">
+        <tr>
+            <td>Task</td>
+            <td>Due Date</td>
+            <td>Time Estimate</td>
+            <td>Time Spent</td>
+            <td>Last Updated</td>
+            <td>Quadrant</td>
+            <td>Category</td>
+            <td>Completed</td>
+            <td>Edit</td>
+            <td>Delete</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model)
+        {
+        <tr>
+            <td>@x.Task</td>
+            <td>@x.DueDate</td>
+            <td>@x.EstimateTime</td>
+            <td>@x.TimeSpent</td>
+            <td>@x.LastUpdated</td>
+            <td>@x.Quadrant</td>
+            <td>@x.Category</td>
+            <td>@x.Completed</td>
+            <td><a asp-controller="Home" asp-action="Edit" asp-route-taskid="@x.AppResponseId">Edit</a></td>
+            <td><a asp-controller="Home" asp-action="Delete" asp-route-taskid="@x.AppResponseId">Delete</a></td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{7C12E659-EA8C-4187-B5DB-20C549CA160F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/ViewTasks.cshtml">
+    <Files>
+      <File FileName="Views/Home/ViewTasks.cshtml" Line="67" Column="92" />
+      <File FileName="Models/Category.cs" Line="1" Column="1" />
+      <File FileName="Models/TaskContext.cs" Line="1" Column="1" />
+      <File FileName="Models/ApplicationResponse.cs" Line="19" Column="41" />
+      <File FileName="Views/Home/Add_Task.cshtml" Line="55" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskTime" expanded="True">
+            <Node name="TaskTime" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="ViewTasks.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaskTime PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

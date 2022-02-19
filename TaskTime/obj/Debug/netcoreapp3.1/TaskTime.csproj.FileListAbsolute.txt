@@ -1,0 +1,232 @@
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.deps.json
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.runtimeconfig.json
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.runtimeconfig.dev.json
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.pdb
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.Views.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.Views.pdb
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.AssemblyReference.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.AssemblyInfoInputs.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.AssemblyInfo.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.CoreCompileInputs.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.MvcApplicationPartsAssemblyInfo.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorAssemblyInfo.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorAssemblyInfo.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/staticwebassets/TaskTime.StaticWebAssets.Manifest.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/staticwebassets/TaskTime.StaticWebAssets.xml
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/scopedcss/bundle/TaskTime.styles.css
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.TagHelpers.input.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.TagHelpers.output.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorCoreGenerate.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorTargetAssemblyInfo.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorTargetAssemblyInfo.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.Views.pdb
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.CopyComplete
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.dll
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.pdb
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.genruntimeconfig.cache
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add_Task.cshtml.g.cs
+/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission6/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewTasks.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.deps.json
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.runtimeconfig.json
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.runtimeconfig.dev.json
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.pdb
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.Views.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.Views.pdb
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.AssemblyReference.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.AssemblyInfoInputs.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.AssemblyInfo.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.CoreCompileInputs.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.MvcApplicationPartsAssemblyInfo.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorAssemblyInfo.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorAssemblyInfo.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/staticwebassets/TaskTime.StaticWebAssets.Manifest.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/staticwebassets/TaskTime.StaticWebAssets.xml
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/scopedcss/bundle/TaskTime.styles.css
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.TagHelpers.input.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.TagHelpers.output.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorCoreGenerate.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add_Task.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewTasks.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorTargetAssemblyInfo.cache
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorTargetAssemblyInfo.cs
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.Views.pdb
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.CopyComplete
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.dll
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.pdb
+/Users/zacmcmillan/Desktop/MyProjects/TaskTime/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.genruntimeconfig.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.deps.json
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.runtimeconfig.json
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.runtimeconfig.dev.json
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.pdb
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.Views.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/TaskTime.Views.pdb
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.AssemblyReference.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.AssemblyInfoInputs.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.AssemblyInfo.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.CoreCompileInputs.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.MvcApplicationPartsAssemblyInfo.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorAssemblyInfo.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorAssemblyInfo.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/staticwebassets/TaskTime.StaticWebAssets.Manifest.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/staticwebassets/TaskTime.StaticWebAssets.xml
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/scopedcss/bundle/TaskTime.styles.css
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.TagHelpers.input.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.TagHelpers.output.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorCoreGenerate.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Add_Task.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewTasks.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorTargetAssemblyInfo.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.RazorTargetAssemblyInfo.cs
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.Views.pdb
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.csproj.CopyComplete
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.dll
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.pdb
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/TaskTime.genruntimeconfig.cache
+/Users/zacmcmillan/Desktop/MyProjects/MyToDoList/TaskTime/obj/Debug/netcoreapp3.1/Razor/Views/Home/CompletedTasks.cshtml.g.cs

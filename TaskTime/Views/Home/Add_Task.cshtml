@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Add a Task";
+}
+@model ApplicationResponse
+
+<h1>
+    Please add your task and information about it
+</h1>
+
+<div>
+    <form method="post">
+        <div asp-validation-summary="All">
+            <label asp-for="Task">Task Name: </label>
+            <input asp-for="Task" />
+            <br />
+
+            <label asp-for="Description">Description: </label>
+            <input asp-for="Description" />
+            <br />
+
+            <label asp-for="DueDate">Due Date: </label>
+            <input asp-for="DueDate" />
+            <br />
+
+            <label asp-for="EstimateTime">Estimated Duration: </label>
+            <select asp-for="EstimateTime">
+                <option value="15">15 Minutes or Less</option>
+                <option value="30">30 Minutes or Less</option>
+                <option value="60">1 hour</option>
+                <option value="90">1.5 hours</option>
+                <option value="120">2 hours</option>
+            </select>
+
+            <label asp-for="TimeSpent">Total time spent: </label>
+            <select asp-for="TimeSpent">
+                <option value="0">None</option>
+                <option value="15">15 Minutes or Less</option>
+                <option value="30">30 Minutes or Less</option>
+                <option value="60">1 hour</option>
+                <option value="90">1.5 hours</option>
+                <option value="120">2 hours</option>
+            </select>
+
+            <label asp-for="TimeLeft">Total time LEFT: </label>
+            <select asp-for="TimeLeft">
+                <option value="15">15 Minutes or Less</option>
+                <option value="30">30 Minutes or Less</option>
+                <option value="60">1 hour</option>
+                <option value="90">1.5 hours</option>
+                <option value="120">2 hours</option>
+            </select>
+            <br />
+
+            <label asp-for="Update">Updates: </label>
+            <input asp-for="Update" placeholder="This is for progress updates"/>
+            <br />
+
+            <label asp-for="LastUpdated">Last Updated: </label>
+            <input asp-for="LastUpdated" />
+            <br />
+
+            <label asp-for="Quadrant">Quadrant: </label>
+            <select asp-for="Quadrant">
+                <option value="">Select</option>
+                <option value="Quadrant I">Urgent/Important</option>
+                <option value="Quadrant II">Not Urgent/Important</option>
+                <option value="Quadrant III">Urgent/Less Important</option>
+                <option value="Quadrant IV">Not Urgent/Less Important</option>
+
+            </select>
+            <br />
+
+            <label asp-for="CategoryID">Category: </label>
+            <select asp-for="CategoryID">
+                <option value="">Select</option>
+                @foreach (Category C in ViewBag.Categories)
+                {
+                    <option value="@C.CategoryID">@C.CategoryName</option>
+                }
+            </select>
+            <br />
+
+            <div class="form-check">
+                @Html.RadioButtonFor(model => model.Completed, true) Task Complete
+            </div>
+            <div class="form-check">
+                @Html.RadioButtonFor(model => model.Completed, false) Task Incomplete
+            </div>
+            <br />
+
+        </div>
+        <input type="hidden" asp-for="AppResponseId" />
+        <button type="submit">Add now!</button>
+
+    </form>
+</div>
